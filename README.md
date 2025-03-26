@@ -65,7 +65,9 @@ If you encounter issues, here are some troubleshooting steps:
 
 Ensure that HTTP (port 80) is open on both web servers and the load balancer.
 
-# 6. API USED
+# 6. API USED and Giving credits
+When developing this application to fetch real-time currency conversion data different API were used so,  
+Special thanks to the developers and maintainers of this API for providing a reliable and easy-to-use service.
 ## For Fetching Currency Lists:
 - https://open.er-api.com/v6/latest/USD
 - https://api.exchangerate.host/latest
